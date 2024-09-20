@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**anajhu3011/anajhu3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Jhuly 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entar em contato comigo 📫
+
+  oliveira.silva.ana3011@escola.pr.gov.br
+  ![]()![![image](https://github.com/user-attachments/assets/e385460b-4e7c-465f-afd7-84001312382c)
+
